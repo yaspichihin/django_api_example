@@ -1,0 +1,9 @@
+.vscode
+__pycache__
+*.pyc
+
+static/*
+!static/.gitkeep
+
+.env
+core\project\settings\local.py
