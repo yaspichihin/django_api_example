@@ -14,7 +14,7 @@ PYMANAGE = python manage.py
 
 .PHONY: storages-up
 storages-up:
-	${DC} -f ${STORAGES_FILE} ${ENV_FILE} up -d
+	${DC} -f ${STORAGES_FILE} ${ENV_FILE} up -d --build
 
 .PHONY: storages-down
 storages-down:
