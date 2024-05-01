@@ -1,1 +1,1 @@
-Шаблон для проктков REST API на Django
+Шаблон для проектов REST API на Django
