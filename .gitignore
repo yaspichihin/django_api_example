@@ -1,6 +1,8 @@
 .vscode
 __pycache__
 *.pyc
+*.sqlite*
+
 
 static/*
 !static/.gitkeep
